@@ -26,3 +26,7 @@ superMMM = [row[2] for row in M]
 print(supern)
 print(superM)
 print(superMMM)
+
+sumG = [sum(row) for row in M]
+
+print(sumG)
